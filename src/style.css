@@ -3,6 +3,9 @@ body {
 }
 
 .first-container {
-    background-color: darkmagenta;
+    background-color: rgb(50, 100, 206);
     
+}
+.second-container {
+    background-color: azure;
 }
