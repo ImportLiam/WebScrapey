@@ -1,2 +1,2 @@
 ﻿# WebScrapey
-## Scraping the web using node.js in conjunction with javascript.
+## website for depositing and sorting the scraped traffic data from Traffic-Scraper.
